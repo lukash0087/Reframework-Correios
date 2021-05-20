@@ -1,0 +1,1 @@
+Quando um erro de sistema é lançado no processo, uma captura de tela é tirada e salva na pasta Exception_Screenshots.
